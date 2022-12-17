@@ -6,5 +6,7 @@ public class GithubKullanimi1 {
         System.out.println("Hello World");
 
         System.out.println("That's it");
+
+        System.out.println("Ahmet branchinde ortak classda degisiklik yaptim");
     }
 }
